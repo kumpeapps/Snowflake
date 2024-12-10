@@ -1,3 +1,5 @@
+# Archiving this repo due to cocoapods being deprecated
+
 # Snowflake
 
 [![CI Status](http://img.shields.io/travis/julp04/Snowflake.svg?style=flat)](https://travis-ci.org/julp04/Snowflake)
